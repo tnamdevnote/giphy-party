@@ -33,3 +33,11 @@ body {
 .form__input:focus {
   outline: none;
 }
+
+.collection {
+  display: gird;
+  justify-content: center;
+}
+
+.collection_gif {
+}
